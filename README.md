@@ -1,2 +1,2 @@
 # pokedex
-pagina de pokemiins
+pagina de pokemons
